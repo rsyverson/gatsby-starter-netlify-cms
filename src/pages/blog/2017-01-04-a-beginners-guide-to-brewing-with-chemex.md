@@ -11,6 +11,7 @@ featuredimage: /img/chemex.jpg
 tags:
   - brewing
   - chemex
+  - hair
 ---
 ![chemex](/img/chemex.jpg)
 
